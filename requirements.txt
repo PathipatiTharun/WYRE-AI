@@ -1,0 +1,6 @@
+pymupdf
+pillow
+pandas
+openpyxl
+pydantic>=2
+google-genai

@@ -1,0 +1,12 @@
+# working files, made again by run.py
+work/*/*
+!work/*/overrides.csv
+
+# Wyre's input files (not mine to publish)
+*.pdf
+results.json
+
+# Python and Excel leftovers
+__pycache__/
+*.pyc
+~$*
